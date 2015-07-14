@@ -156,6 +156,8 @@ Release 2.8.0 - UNRELEASED
     YARN-3853. Add docker container runtime support to LinuxContainterExecutor.
     (Sidharta Seethana via vvasudev)
 
+    YARN-3866. AM-RM protocol changes to support container resizing. (Meng Ding
+    via jianhe)
 
   IMPROVEMENTS
 
